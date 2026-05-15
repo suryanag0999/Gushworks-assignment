@@ -22,8 +22,8 @@ This project is a responsive landing page built using only HTML, CSS, and JavaSc
 ├── styles.css
 ├── script.js
 ├── assets/
+```
 
-## Features
 
 ### Sticky Header
 - Appears after scrolling past the first section
